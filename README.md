@@ -1,2 +1,2 @@
-# portfolio.Viktor.Molina
+# portfolio-Viktor-Molina
 ITHS
